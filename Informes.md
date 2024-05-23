@@ -4,7 +4,7 @@ Informes de análisis de la red:
 - Se han realizado análisis periódicos de la topología de red, utilización de enlaces, tráfico, y patrones de uso.
 - Los principales hallazgos indican que la red se encuentra en buen estado, con una alta tasa de utilización de ancho de banda en horas pico, pero sin saturación significativa.
 - Se han identificado algunas áreas de mejora, como la necesidad de actualizar ciertos switches de acceso a modelos de mayor capacidad.
-- Los informes recomiendan considerar la migración a una arquitectura de red basada en SD-WAN para mejorar la eficiencia y flexibilidad de la red.
+- Los informes recomiendan considerar la migración a una arquitectura de red basada en SD-WAN(Wide Area Network). para mejorar la eficiencia y flexibilidad de la red.
 
 Pruebas de rendimiento y seguridad:
 - Se han realizado pruebas de rendimiento de la red, incluyendo mediciones de latencia, jitter y pérdida de paquetes en diferentes segmentos.
