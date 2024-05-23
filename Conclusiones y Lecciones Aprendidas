@@ -12,9 +12,8 @@ switches y hosts, permite una mayor escalabilidad. Esta arquitectura facilita el
 las necesidades del negocio. Asimismo, la división en subredes y la interconexión directa entre los routers ayuda a optimizar 
 el flujo de tráfico y reducir la latencia, mejorando el rendimiento general del sistema.
 
-
     
-Lecciones aprendidas a partir de la topología de red presentada para el sistema Florisoft:
+Lecciones de aprendizaje: 
 
     1. Importancia del Análisis de Requisitos: 
        - Antes de diseñar la topología, es crucial entender a fondo los requerimientos de la aplicación, 
