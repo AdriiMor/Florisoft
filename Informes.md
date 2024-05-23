@@ -1,4 +1,4 @@
-informes de análisis de la red, pruebas de rendimiento y seguridad, y registros de incidentes de la infraestructura de FloriSoft:
+Informes de análisis de la red, pruebas de rendimiento y seguridad, y registros de incidentes de la infraestructura de FloriSoft:
 
 Informes de análisis de la red:
 - Se han realizado análisis periódicos de la topología de red, utilización de enlaces, tráfico, y patrones de uso.
