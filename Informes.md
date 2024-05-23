@@ -7,7 +7,7 @@ Informes de análisis de la red:
 - Los informes recomiendan considerar la migración a una arquitectura de red basada en SD-WAN(Wide Area Network). para mejorar la eficiencia y flexibilidad de la red.
 
 Pruebas de rendimiento y seguridad:
-- Se han realizado pruebas de rendimiento de la red, incluyendo mediciones de latencia, jitter y pérdida de paquetes en diferentes segmentos.
+- Se han realizado pruebas de rendimiento de la red, incluyendo mediciones de latencia, jitter(la variación en el tiempo de llegada de los paquetes de datos) y pérdida de paquetes en diferentes segmentos.
 - Los resultados muestran un desempeño general satisfactorio, con valores dentro de los umbrales esperados.
 - Las pruebas de seguridad, como escaneos de vulnerabilidades y pruebas de penetración, no han detectado problemas críticos.
 - Sin embargo, se han identificado algunas vulnerabilidades menores en ciertos dispositivos de red, las cuales han sido corregidas.
