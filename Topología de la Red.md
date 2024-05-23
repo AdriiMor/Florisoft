@@ -1,1 +1,1 @@
-![Aquí se muestra](imagenes/Topologia_fisica.jpg) 
+![Aquí se muestra](imagenes/Topologiafisica.jpg) 
