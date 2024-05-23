@@ -1,4 +1,4 @@
-Principales protocolos y tecnologías de red que se utilizarían en el proyecto:
+Principales protocolos y tecnologías de red que se utilizaron en el proyecto:
 
    1.	Protocolos de Red:
        •	TCP/IP (Transmission Control Protocol/Internet Protocol): Protocolo de
