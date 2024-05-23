@@ -15,7 +15,7 @@ el flujo de tráfico y reducir la latencia, mejorando el rendimiento general del
     
 Lecciones de aprendizaje: 
 
-    1. Importancia del Análisis de Requisitos: 
+ 1. Importancia del Análisis de Requisitos: 
        - Antes de diseñar la topología, es crucial entender a fondo los requerimientos de la aplicación, 
          el número de usuarios, la cantidad de tráfico esperado y las necesidades de rendimiento y escalabilidad. 
          Esto permite elegir la topología más adecuada.
