@@ -1,1 +1,27 @@
+Conclusiones sobre la topología de red presentada para el sistema Florisoft:
+
+    1. Segmentación de la Red: 
+      - La red está dividida en dos subredes lógicas, lo que permite un mejor control y 
+       administración del tráfico, así como un aislamiento de los diferentes segmentos.
+
+    2. Redundancia y Tolerancia a Fallas: 
+      - La existencia de dos routers (R1 y R2) y la interconexión punto a punto entre ellos, 
+        proporciona redundancia en la red. Esto mejora la disponibilidad y resiliencia del sistema, 
+        ya que en caso de fallo de uno de los routers, el otro puede asumir el tráfico.
+
+    3. Escalabilidad: 
+      - La estructura modular y jerárquica de la topología (con routers, switches y hosts) facilita el 
+        escalamiento de la red a medida que crezcan las necesidades del negocio.
+
+    4. Facilidad de Administración: 
+      - Al tener una topología bien definida y segmentada, las tareas de monitoreo, resolución de 
+        problemas y configuración de la red se simplifican.
+
+    5. Optimización del Rendimiento: 
+      - La división en subredes y la interconexión directa entre los routers (a través de los enlaces 
+        punto a punto) ayuda a optimizar el flujo de tráfico y reducir la latencia.
+
+    6. Seguridad: 
+      - La segmentación de la red y el uso de routers permiten implementar más fácilmente controles 
+        de acceso, listas de control y otras medidas de seguridad para proteger los recursos críticos.
 
