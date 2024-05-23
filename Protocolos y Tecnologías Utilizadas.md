@@ -1,8 +1,8 @@
 Principales protocolos y tecnologías de red que se utilizaron en el proyecto:
 
   1.	Protocolos de Red:
-  2.	
-      - TCP/IP (Transmission Control Protocol/Internet Protocol):Protocolo de
+     
+   - TCP/IP (Transmission Control Protocol/Internet Protocol):Protocolo de
      	   comunicación fundamental para la transmisión de datos en la red.
       - HTTP (Hypertext Transfer Protocol) / HTTPS (Hypertext Transfer Protocol Secure):
      	   Protocolos utilizados para la comunicación web entre el cliente y el servidor.
